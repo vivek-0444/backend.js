@@ -1,0 +1,19 @@
+{
+  "name": "viveklearn",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "node"
+  ],
+  "license": "ISC",
+  "author": "vivek",
+  "type": "commonjs",
+  "main": "file.js",
+  "scripts": {
+    "start": "node file.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1"
+  }
+}
